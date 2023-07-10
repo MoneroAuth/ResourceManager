@@ -1,0 +1,2 @@
+# ResourceManager
+MoneroAuth Resource Manager
